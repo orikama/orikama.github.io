@@ -1,0 +1,13 @@
+# Author of the site, will be used in meta information
+author = 'Vladimir Matushkin'
+
+# When using mulitlingual website, disable the switch language button.
+disableLanguageSwitchingButton = true
+# Disables hidden pages from showing up in the sitemap and on Google (et all), otherwise they may be indexed by search engines
+disableSeoHiddenPages = true
+
+# Change default color scheme with a variant one. Eg. can be 'red', 'blue', 'green' or an array like [ 'blue', 'green' ].
+themeVariant = [ 'relearn-dark', 'relearn-light' ]
+
+# If a single page can contain content in multiple languages, add those here
+additionalContentLanguage = [ 'en' ]
