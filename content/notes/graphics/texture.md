@@ -27,3 +27,11 @@ title = 'Texture'
 - [Texture filtering (Arm)](https://developer.arm.com/documentation/102449/0100/Texture-filtering)
 - [Enabled anisotropy with nearest filtering](https://github.com/KhronosGroup/Vulkan-Docs/issues/1361)
 - [Sampler compareEnable needs to be specified at sampler creation, and validated against the shader](https://github.com/gpuweb/gpuweb/issues/552)
+
+## Compression
+
+- [What are 8-bit, 10-bit, 12-bit, 4:4:4, 4:2:2 and 4:2:0](https://www.datavideo.com/in/article/412/what-are-8-bit-10-bit-12-bit-4-4-4-4-2-2-and-4-2-0)
+- [Using ASTC Texture Compression for Game Assets](https://developer.nvidia.com/astc-texture-compression-for-game-assets)
+- [Arm Mali GPU Best Practices Developer Guide Version 2.0](https://developer.arm.com/documentation/101897/0200/buffers-and-textures/texture-sampling-performance)
+- [TEXTURE COMPRESSION TECHNIQUES](https://sv-journal.org/2014-1/06/en/index.php?lang=en#1)
+- [Understanding BCn Texture Compression Formats](https://www.reedbeta.com/blog/understanding-bcn-texture-compression-formats/)
